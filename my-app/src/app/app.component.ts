@@ -7,7 +7,7 @@ import { FormsModule } from '@angular/forms';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  favAmi: string="cat";
+  favAmi: string="call";
 
   constructor() {
    
